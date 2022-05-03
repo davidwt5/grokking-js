@@ -1,0 +1,23 @@
+{
+  "name": "grokking",
+  "version": "1.0.0",
+  "description": "My solution and notes on [Grokking the Coding Interview](https://designgurus.org/course/grokking-the-coding-interview)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidwt5/grokking-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidwt5/grokking-js/issues"
+  },
+  "homepage": "https://github.com/davidwt5/grokking-js#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
